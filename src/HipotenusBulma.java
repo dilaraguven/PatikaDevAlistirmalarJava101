@@ -12,5 +12,7 @@ public class HipotenusBulma {
         double hipotenus=Math.sqrt((kenar1*kenar1)+(kenar2*kenar2));
 
         System.out.println("Kenarları girilen ucgenin hipotenusu: "+hipotenus);
+
+
     }
 }
